@@ -1,0 +1,13 @@
+.input-range {
+  outline: none;
+  border-radius: 2px;
+  height: 5px;
+  width: 90%;
+}
+.input-number {
+  display: inline-block;
+  width: 100px;
+  position: relative;
+  left: 180px;
+  top: -3px;
+}

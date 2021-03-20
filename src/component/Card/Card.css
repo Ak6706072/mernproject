@@ -1,0 +1,18 @@
+.card {
+  min-height: 150%;
+  max-width: 65%;
+  background-color: #e4fbff;
+  margin: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+  box-shadow: 0 0 40px rgba(0, 0, 0, 0.3);
+}
+
+.card-emi {
+  color: blue;
+}
+.card-emi-value {
+  color: gray;
+}
